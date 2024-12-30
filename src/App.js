@@ -1,5 +1,5 @@
 import './App.css';
-import LinkAccount from './Components/LinkAccount/LinkAccount';
+import YourProfile from './Components/YourProfile/YourProfile';
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header>
         osu!std DAN courses
       </header>
-      <LinkAccount/>
+      <YourProfile/>
       <div>
         
       </div>

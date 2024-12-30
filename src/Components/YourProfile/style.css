@@ -1,6 +1,7 @@
 div {
     width: 100%;
     text-align: center;
+    
 }
 
 button {
@@ -11,7 +12,7 @@ button {
     padding: 10px;
     border-radius: 30px;
     transition: 0.4s ease-in-out;
-
+    margin: 50px;
 }
 
 button:hover {
